@@ -1,0 +1,49 @@
+# Librairies de base
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+
+# Gestion des fichiers et formats
+pyyaml
+xmltodict
+openpyxl  # Pour les fichiers Excel
+
+# Vision par ordinateur et suivi des joueurs
+opencv-python
+opencv-python-headless
+torch
+torchvision
+ultralytics
+thop
+cython
+cython_bbox
+
+# Tracking et métriques
+motmetrics
+supervision
+lap
+
+# Développement et logs
+loguru
+coloredlogs
+rich
+tqdm
+
+# Outils d’analyse et visualisation
+mplsoccer
+matplotsoccer
+scikit-learn
+scikit-image
+statsmodels
+
+# Outils vidéo
+ffmpeg
+ffmpeg-python
+
+# Communication API (si tu envoies des requêtes)
+requests
+
+# (Optionnel) Interface utilisateur avec Streamlit
+streamlit
